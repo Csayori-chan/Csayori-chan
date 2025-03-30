@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🕹️ LucasDev - Ficha de Programador
 
-<!--
-**Csayori-chan/Csayori-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎮 Um programador em constante evolução, enfrentando desafios e subindo de nível a cada projeto!
 
-Here are some ideas to get you started:
+## 🧩 Status do Jogador
+- **Nome:** LucasDev
+- **Classe:** Full-Stack Developer
+- **Nível:** 22 (anos de experiência + projetos concluídos)
+- **HP:** 💙💙💙💙💙 (50/50)
+- **MP:** 🔥🔥🔥🔥 (40/50)
+- **XP:** ██████████▒▒ (80%)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- 🏹 **Front-end:** HTML, CSS, JavaScript
+- 🛡️ **Back-end:** Node.js, PHP, Python
+- 🏗️ **Frameworks:** Django, Express, React, Kivy
+- 🧠 **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- ⚔️ **Ferramentas:** Git, Docker, VS Code
+
+## 🎯 Missões em Andamento
+- [ ] Criar um jogo com Pygame 🎮
+- [ ] Aprender mais sobre Node.js 🚀
+- [ ] Melhorar meu CSS para interfaces incríveis 🎨
+
+## 🏆 Conquistas Desbloqueadas
+🏅 **Primeiro Repositório** - Meu primeiro código no GitHub  
+🛠️ **Projeto Completo** - Desenvolvi um sistema funcional  
+🎓 **Aprendizagem Contínua** - Sempre estudando novas tecnologias  
+
+## 📬 Contato
+📧 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
+🐦 **Twitter:** [@LucasDev](https://twitter.com/LucasDev)  
+💼 **LinkedIn:** [LucasDev](https://linkedin.com/in/LucasDev)
