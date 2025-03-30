@@ -1,26 +1,33 @@
 # 🕹️ LucasDev - Ficha de Programador
 
-> 🎮 Um programador em constante evolução, enfrentando desafios e subindo de nível a cada projeto!
+> 🎮 Subindo de nível a cada código escrito!
+
+<div align="center">
+  <img src="https://via.placeholder.com/150" alt="Avatar do Jogador" width="150" style="border-radius: 50%;">
+</div>
 
 ## 🧩 Status do Jogador
-- **Nome:** LucasDev
-- **Classe:** Full-Stack Developer
-- **Nível:** 22 (anos de experiência + projetos concluídos)
-- **HP:** 💙💙💙💙💙 (50/50)
-- **MP:** 🔥🔥🔥🔥 (40/50)
-- **XP:** ██████████▒▒ (80%)
+- **Nome:** LucasDev  
+- **Classe:** Full-Stack Developer  
+- **Nível:** 22  
+- **HP:** 💙💙💙💙💙 (50/50)  
+- **MP:** 🔥🔥🔥🔥 (40/50)  
+- **XP:** ██████████▒▒ (80%)  
 
 ## 🛠️ Habilidades
-- 🏹 **Front-end:** HTML, CSS, JavaScript
-- 🛡️ **Back-end:** Node.js, PHP, Python
-- 🏗️ **Frameworks:** Django, Express, React, Kivy
-- 🧠 **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- ⚔️ **Ferramentas:** Git, Docker, VS Code
+<ul>
+  <li>🏹 <b>Front-end:</b> HTML, CSS, JavaScript</li>
+  <li>🛡️ <b>Back-end:</b> Node.js, PHP, Python</li>
+  <li>🏗️ <b>Frameworks:</b> Django, Express, React, Kivy</li>
+  <li>🧠 <b>Banco de Dados:</b> MySQL, PostgreSQL, MongoDB</li>
+</ul>
 
 ## 🎯 Missões em Andamento
-- [ ] Criar um jogo com Pygame 🎮
-- [ ] Aprender mais sobre Node.js 🚀
-- [ ] Melhorar meu CSS para interfaces incríveis 🎨
+<ul>
+  <li>[ ] Criar um jogo com Pygame 🎮</li>
+  <li>[ ] Aprender mais sobre Node.js 🚀</li>
+  <li>[ ] Melhorar meu CSS para interfaces incríveis 🎨</li>
+</ul>
 
 ## 🏆 Conquistas Desbloqueadas
 🏅 **Primeiro Repositório** - Meu primeiro código no GitHub  
@@ -28,6 +35,11 @@
 🎓 **Aprendizagem Contínua** - Sempre estudando novas tecnologias  
 
 ## 📬 Contato
-📧 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
-🐦 **Twitter:** [@LucasDev](https://twitter.com/LucasDev)  
-💼 **LinkedIn:** [LucasDev](https://linkedin.com/in/LucasDev)
+📧 <b>Email:</b> <a href="mailto:seuemail@email.com">seuemail@email.com</a>  
+🐦 <b>Twitter:</b> <a href="https://twitter.com/LucasDev" target="_blank">@LucasDev</a>  
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/LucasDev" target="_blank">LucasDev</a>  
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasDev&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
