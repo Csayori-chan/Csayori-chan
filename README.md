@@ -1,45 +1,61 @@
-# 🕹️ LucasDev - Ficha de Programador
-
-> 🎮 Subindo de nível a cada código escrito!
+# 🎲 Ficha de Personagem - LucasDev
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Avatar do Jogador" width="150" style="border-radius: 50%;">
+  <img src="https://via.placeholder.com/150" alt="Avatar do Jogador" width="120" style="border-radius: 50%;">
 </div>
 
-## 🧩 Status do Jogador
-- **Nome:** LucasDev  
-- **Classe:** Full-Stack Developer  
-- **Nível:** 22  
-- **HP:** 💙💙💙💙💙 (50/50)  
-- **MP:** 🔥🔥🔥🔥 (40/50)  
-- **XP:** ██████████▒▒ (80%)  
+<table align="center" width="80%" border="1" cellspacing="0" cellpadding="10" style="background-color:#f8f1dc; border-collapse: collapse; font-family: 'Courier New', monospace;">
+  <tr>
+    <th colspan="2" style="background-color:#a97c50; color:white;">📜 Informações do Personagem</th>
+  </tr>
+  <tr>
+    <td><b>🆔 Nome:</b></td>
+    <td>LucasDev</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ Classe:</b></td>
+    <td>Full-Stack Developer</td>
+  </tr>
+  <tr>
+    <td><b>⭐ Nível:</b></td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td><b>💙 HP:</b></td>
+    <td>█████ (50/50)</td>
+  </tr>
+  <tr>
+    <td><b>🔥 MP:</b></td>
+    <td>████ (40/50)</td>
+  </tr>
+  <tr>
+    <td><b>📈 XP:</b></td>
+    <td>█████████░░ (80%)</td>
+  </tr>
+</table>
 
-## 🛠️ Habilidades
-<ul>
-  <li>🏹 <b>Front-end:</b> HTML, CSS, JavaScript</li>
-  <li>🛡️ <b>Back-end:</b> Node.js, PHP, Python</li>
-  <li>🏗️ <b>Frameworks:</b> Django, Express, React, Kivy</li>
-  <li>🧠 <b>Banco de Dados:</b> MySQL, PostgreSQL, MongoDB</li>
-</ul>
+<table align="center" width="80%" border="1" cellspacing="0" cellpadding="10" style="background-color:#f8f1dc; border-collapse: collapse; font-family: 'Courier New', monospace;">
+  <tr>
+    <th colspan="2" style="background-color:#a97c50; color:white;">🔧 Habilidades</th>
+  </tr>
+  <tr>
+    <td>🏹 <b>Front-end:</b></td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td>🛡️ <b>Back-end:</b></td>
+    <td>Node.js, PHP, Python</td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Frameworks:</b></td>
+    <td>Django, Express, React, Kivy</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Banco de Dados:</b></td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
+  </tr>
+</table>
 
-## 🎯 Missões em Andamento
-<ul>
-  <li>[ ] Criar um jogo com Pygame 🎮</li>
-  <li>[ ] Aprender mais sobre Node.js 🚀</li>
-  <li>[ ] Melhorar meu CSS para interfaces incríveis 🎨</li>
-</ul>
-
-## 🏆 Conquistas Desbloqueadas
-🏅 **Primeiro Repositório** - Meu primeiro código no GitHub  
-🛠️ **Projeto Completo** - Desenvolvi um sistema funcional  
-🎓 **Aprendizagem Contínua** - Sempre estudando novas tecnologias  
-
-## 📬 Contato
-📧 <b>Email:</b> <a href="mailto:seuemail@email.com">seuemail@email.com</a>  
-🐦 <b>Twitter:</b> <a href="https://twitter.com/LucasDev" target="_blank">@LucasDev</a>  
-💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/LucasDev" target="_blank">LucasDev</a>  
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDev&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
+<table align="center" width="80%" border="1" cellspacing="0" cellpadding="10" style="background-color:#f8f1dc; border-collapse: collapse; font-family: 'Courier New', monospace;">
+  <tr>
+    <th colspan="2" style="background-color:#a97c50; color:white;">🎯 Miss
